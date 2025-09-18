@@ -7,3 +7,9 @@ nos dieron los benefiios por ser estudiantes :alien: :smirk_cat: :ice_cream:
 se  realizo la bitacora donde llevaremos lo que se hace en clases
 ## 28/08/25
 hcimos el curriculum tanto  en  ingles como en español 
+![Tarea 998](Curriculum.pdf)
+![Tarea 998](Currículums)
+## 18/09/25
+elabore mi sitio web 
+![Tarea 998](https://250300436-commits.github.io/fernandogabrielcaamalcarre-o.github.io/)
+

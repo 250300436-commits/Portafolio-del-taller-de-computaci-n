@@ -11,5 +11,5 @@ hcimos el curriculum tanto  en  ingles como en español
 ![Tarea 998](Currículums)
 ## 18/09/25
 elabore mi sitio web 
-![Tarea 998](https://250300436-commits.github.io/fernandogabrielcaamalcarre-o.github.io/)
+https://250300436-commits.github.io/fernandogabrielcaamalcarre-o.github.io/
 

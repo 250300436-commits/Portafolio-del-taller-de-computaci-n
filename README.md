@@ -13,18 +13,18 @@ hcimos el curriculum tanto  en  ingles como en español
 elabore mi sitio web 
 https://250300436-commits.github.io/fernandogabrielcaamalcarre-o.github.io/
 
-##Tarea 992
+## Tarea 992
 
 ![Tarea992_Articulo.pdf](Tarea992_Articulo.pdf)
 
-##Tarea 998
+## Tarea 998
 
 ![passwordmanager.pdf](passwordmanager1.pdf)
 
-##TAREA 987
+## Tarea 987
 
 ![Cms.pdf](cms..pdf)
 
-##TAREA 986
+## TAREA 986
 
 Pagina en wordpress https://fernandosecurity.truemembersclub.com/
